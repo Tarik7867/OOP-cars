@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(231, 244, 217);
+}
+
+.blclass{
+    background-color: rgb(209, 209, 252);
+    font-size: 16px;
+    color: rgb(255, 0, 0);
+    margin-bottom: 10px;
+}
